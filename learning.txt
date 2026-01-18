@@ -1,0 +1,5 @@
+Pembelajaran saat ini :
+1) Basic Foundation
+- Mathematics for Robotics
+- Physics & Mechanics
+- Programming Fundamentals
