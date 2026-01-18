@@ -1,0 +1,10 @@
+Rencana baru :
+1. Full-Stack Developer
+- Membuat website dengan :
+  ^ PHP
+  ^ Javascript
+2. Game Developer
+- Membuat game berbasis CLI
+3. Data Scientist
+- Machine Learning
+- Deep Learning
