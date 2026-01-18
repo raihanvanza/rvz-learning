@@ -3,8 +3,6 @@ Rencana baru :
 - Membuat website dengan :
   ^ PHP
   ^ Javascript
-2. Game Developer
-- Membuat game berbasis CLI
-3. Data Scientist
+2. Data Scientist
 - Machine Learning
 - Deep Learning
