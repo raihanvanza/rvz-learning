@@ -10,5 +10,10 @@ Pembelajaran saat ini :
 3) Mechanical & Robot Design
 - Chassis
 - Degrees of Freedom
-- Gearbox
 - Computer Aided Design
+4) Sensor & Perception
+- Sensor Main
+- Sensor Fusion
+- Filtering
+5) Control System
+- Feedback control
