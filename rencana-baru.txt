@@ -1,0 +1,8 @@
+Rencana baru :
+1. Full-Stack Developer
+- Membuat website dengan :
+  ^ PHP
+  ^ Javascript
+2. Data Scientist
+- Machine Learning
+- Deep Learning
