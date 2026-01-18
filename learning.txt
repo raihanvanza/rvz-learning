@@ -3,3 +3,12 @@ Pembelajaran saat ini :
 - Mathematics for Robotics
 - Physics & Mechanics
 - Programming Fundamentals
+2) Electronics & Embedded System
+- Microcontroller
+- Microprocessor
+- Power Management
+3) Mechanical & Robot Design
+- Chassis
+- Degrees of Freedom
+- Gearbox
+- Computer Aided Design
