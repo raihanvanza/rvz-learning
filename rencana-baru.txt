@@ -4,5 +4,7 @@ Rencana baru :
   ^ PHP
   ^ Javascript
 2. Data Scientist
+3. Artificial Intelligence
 - Machine Learning
 - Deep Learning
+- NLP
