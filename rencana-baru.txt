@@ -4,5 +4,15 @@ Rencana baru :
   ^ PHP
   ^ Javascript
 2. Data Scientist
+- Python
 - Machine Learning
+3. Artificial Intelligence
+- Basic Matematics
+  ^ Aljabar Linear
+  ^ Kalkulus
+  ^ Probabilitas dan Statiska
 - Deep Learning
+  ^ Neural Network
+  ^ Framework
+  ^ CV
+  ^ NLP
